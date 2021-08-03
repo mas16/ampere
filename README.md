@@ -1,1 +1,1 @@
-# Automated Modeling and Parameter Estimation for NMR Relaxation Experiments
+# Automated Modeling and Parameter Estimation for Relaxation Experiments
